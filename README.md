@@ -1,5 +1,5 @@
 # start: 2024/6/10 - 
-# Stop reading the news, start reading the textbooks !
+# 2024/6/10: Stop reading the news, start reading the textbooks !
 # https://x.com/SpaceX
 # https://www.nasa.gov/ebooks/
 # [NASA TECHNOLOGY TRANSFER PROGRAM](https://technology.nasa.gov/)
