@@ -9,5 +9,5 @@
 ---
 
 ### https://en.wikipedia.org/wiki/Cavitation
-- [ ] 2024/6/19 7:40- : Chapter 1, classification
+- [ ] 2024/6/19 7:40- : Chapter 1, classification, page 25 - 26
 
