@@ -2,6 +2,7 @@
 # 2024/6/10: Stop reading the news, start reading the textbooks !
 # To boldly go where no one has gone before!
 # Explore new frontiers
+# SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft
 ## https://x.com/SpaceX
 ## https://www.nasa.gov/ebooks/
 ## https://en.wikipedia.org/wiki/SpaceX
