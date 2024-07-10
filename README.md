@@ -3,7 +3,11 @@
 # After studying the textbooks, try to explain the launch to the public in a professional and engaging way on YouTube 
 # "Done is better than perfect"——Don't pursue perfection too much, starting now is the best start
 ```
-We are used to setting very high standards for ourselves and pursuing perfection. The best result is frustration, and the worst result is giving up the goal completely. Set a rough and basic goal, complete it as quickly as possible, say to yourself "I'm really cool", and then improve our results little by little until it is close to the perfect goal you originally had in mind. In other words, "when we are doing a project, we should focus on the core first", and put the work that can be improved later, such as giving it a more beautiful interface, at the end.
+We are used to setting very high standards for ourselves and pursuing perfection. The best result is frustration, and the worst
+ result is giving up the goal completely. Set a rough and basic goal, complete it as quickly as possible, say to yourself "I'm
+really cool", and then improve our results little by little until it is close to the perfect goal you originally had in mind. In
+ other words, "when we are doing a project, we should focus on the core first", and put the work that can be improved later,
+such as giving it a more beautiful interface, at the end.
 In addition, we don't need to wait until everything is ready before we start doing what we want to do. For example, if you want to learn algorithms, the ideal situation is that you have a clearly explained book, a quiet desk and a laptop with a well-built environment. But even if you don't have these, you can still learn by handwriting code. The higher the environmental requirements we set ourselves, the higher the threshold for our learning will be. This threshold blocks our way to learning. In fact, in many cases, I can remove this threshold through flexible means. For example, if I want to write a Gobang game, I only know C++ syntax now, so we can start writing it. We don't need to learn VC++ or find an algorithm book to learn everything before starting to write our Gobang. We can check any problems we encounter during the development process. After completing this game, we can reflect and supplement our knowledge.
 
 Whatever you want to do, start doing it right away
