@@ -1,5 +1,7 @@
 # start: 2024/6/10 - 
 # 2024/6/10: Stop reading the news, start reading the textbooks !
+# "Done is better than perfect"——Don't pursue perfection too much, starting now is the best start
+## https://todoist.com/inspiration/feynman-technique
 # To boldly go where no one has gone before!
 # Explore new frontiers
 # SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft
