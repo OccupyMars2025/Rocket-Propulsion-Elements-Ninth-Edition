@@ -1,5 +1,6 @@
 # start: 2024/6/10 - 
 # 2024/6/10: Stop reading the news, start reading the textbooks !
+# After studying the textbooks, try to explain the launch to the public in a professional and engaging way on YouTube 
 # "Done is better than perfect"——Don't pursue perfection too much, starting now is the best start
 ```
 We are used to setting very high standards for ourselves and pursuing perfection. The best result is frustration, and the worst result is giving up the goal completely. Set a rough and basic goal, complete it as quickly as possible, say to yourself "I'm really cool", and then improve our results little by little until it is close to the perfect goal you originally had in mind. In other words, "when we are doing a project, we should focus on the core first", and put the work that can be improved later, such as giving it a more beautiful interface, at the end.
@@ -21,6 +22,10 @@ And you will get better and better in the next practice again and again, getting
 Instead of always standing still at the starting line of 0. The important thing is to start, not to be perfect the first time. ——Kazuo Inamori
 ```
 ## https://todoist.com/inspiration/feynman-technique
+![image](https://github.com/OccupyMars2025/Rocket-Propulsion-Elements-Ninth-Edition/assets/31559413/faf3a125-2850-4b2d-904c-f0559f00ad56)
+![image](https://github.com/OccupyMars2025/Rocket-Propulsion-Elements-Ninth-Edition/assets/31559413/00ec1540-b963-4c27-a91c-8ed04ccbe398)
+
+
 # To boldly go where no one has gone before!
 # Explore new frontiers
 # SpaceX designs, manufactures and launches the world’s most advanced rockets and spacecraft
