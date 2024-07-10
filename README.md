@@ -1,6 +1,25 @@
 # start: 2024/6/10 - 
 # 2024/6/10: Stop reading the news, start reading the textbooks !
 # "Done is better than perfect"——Don't pursue perfection too much, starting now is the best start
+```
+We are used to setting very high standards for ourselves and pursuing perfection. The best result is frustration, and the worst result is giving up the goal completely. Set a rough and basic goal, complete it as quickly as possible, say to yourself "I'm really cool", and then improve our results little by little until it is close to the perfect goal you originally had in mind. In other words, "when we are doing a project, we should focus on the core first", and put the work that can be improved later, such as giving it a more beautiful interface, at the end.
+In addition, we don't need to wait until everything is ready before we start doing what we want to do. For example, if you want to learn algorithms, the ideal situation is that you have a clearly explained book, a quiet desk and a laptop with a well-built environment. But even if you don't have these, you can still learn by handwriting code. The higher the environmental requirements we set ourselves, the higher the threshold for our learning will be. This threshold blocks our way to learning. In fact, in many cases, I can remove this threshold through flexible means. For example, if I want to write a Gobang game, I only know C++ syntax now, so we can start writing it. We don't need to learn VC++ or find an algorithm book to learn everything before starting to write our Gobang. We can check any problems we encounter during the development process. After completing this game, we can reflect and supplement our knowledge.
+
+Whatever you want to do, start doing it right away
+Don't think about it
+When preparing to do something, don’t first think about the difficulties you may encounter.
+The more you think about it, the harder it is to start; if you don’t think about anything, things just happen!
+What can be done in 5 minutes, start immediately. Don’t let something that can be done in 5 minutes bother you all day long
+Give up perfectionism
+No one expects you to do your best the first time.
+Instead of trying to be a blockbuster but dilly-dallying and hesitating, it is better to complete the rough draft first and then polish it slowly.
+Completion is more important than perfection, because only by completing it first can you be perfect
+Just do it if you want to. The biggest benefit is not that you achieve your goal.
+Instead, I gained confidence in myself and life. The whole person is full of energy and will be in a good mood every day♥️
+If you want to do something, do it immediately. It doesn't matter if you don't do that well, even if you only complete 70 points, it's better than 0.
+And you will get better and better in the next practice again and again, getting closer and closer to 100,
+Instead of always standing still at the starting line of 0. The important thing is to start, not to be perfect the first time. ——Kazuo Inamori
+```
 ## https://todoist.com/inspiration/feynman-technique
 # To boldly go where no one has gone before!
 # Explore new frontiers
