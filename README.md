@@ -1,6 +1,6 @@
 # start: 2024/6/10 - 
 # 2024/6/10: Stop reading the news, start reading the textbooks !
-# Boldly go where no man has gone before
+# To boldly go where no one has gone before!
 # Explore new frontiers
 ## https://x.com/SpaceX
 ## https://www.nasa.gov/ebooks/
