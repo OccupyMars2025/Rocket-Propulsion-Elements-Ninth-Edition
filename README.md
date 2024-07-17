@@ -41,6 +41,7 @@ Instead of always standing still at the starting line of 0. The important thing 
 
 ## [2024/6/25: China’s Chang’e-6 moon mission returns to Earth with historic far side samples](https://edition.cnn.com/2024/06/25/china/china-change-6-moon-mission-return-scn-intl-hnk/index.html)
 ## [2024/6/25: China’s Chang’e 6 mission has successfully returned samples from the moon’s far side, opening a new phase of the nation’s lunar space race with the U.S.](https://www.scientificamerican.com/article/china-returns-first-ever-samples-from-the-moons-far-side/)
+## [2023/10/20: Radar evidence of an accessible cave conduit on the Moon below the Mare Tranquillitatis pit](https://www.nature.com/articles/s41550-024-02302-y.epdf?sharing_token=8y-xnc3exmHyMEm6rc24ddRgN0jAjWel9jnR3ZoTv0NM3XCoO8qqQAVpZqycEJ41v-Y1i8jue3aIH5QvXVkwNKM1VU1zJ66l13rexlhrvWyR1SrF_fl-osl851IG6owAa0mBcJWiYLUEFsYJHaDQToCmPmK9-zmmu3ISDRCd_-bbjc6mWGjLESX0dlosaOO6ajSxqNLEsAwtOYQWjRSDZUas1FsiA_ba07AU0JoJn7TrUFfzNVCqnuk84kIxwY2jwOTbMazxswZY2EG7dQTfD1SvRhx_8EIghgsSVe7Iq-g5VwozJgrliKzMTyMRYGU2jDGSLm9qTlybFIkFbP9GheeLvNNUcEyy9gEjOEnqqq0%3D&tracking_referrer=www.theguardian.com)
 ---
 
 ### https://en.wikipedia.org/wiki/Cavitation
